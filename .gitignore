@@ -3,3 +3,10 @@ dist/
 .vite/
 *.lock
 Pictureprocessing
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
